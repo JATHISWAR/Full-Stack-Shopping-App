@@ -10,7 +10,8 @@ export class LoginStatusComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    
   }
-  
+
 
 }
