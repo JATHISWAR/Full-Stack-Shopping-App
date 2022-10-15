@@ -14,3 +14,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 <img src="https://github.com/JATHISWAR/Full-Stack-Shopping-App/blob/FrontEnd/Screenshot%202022-10-16%20at%2012.05.28%20AM.png" width="600" height="400">
 
 <img src="https://github.com/JATHISWAR/Full-Stack-Shopping-App/blob/FrontEnd/Screenshot%202022-10-16%20at%2012.05.48%20AM.png" width="600" height="400">
+
+<img src="https://github.com/JATHISWAR/Full-Stack-Shopping-App/blob/FrontEnd/Screenshot%202022-10-16%20at%2012.05.48%20AM.png" width="600" height="400">
+
+<img src="https://github.com/JATHISWAR/Full-Stack-Shopping-App/blob/FrontEnd/Screenshot%202022-10-16%20at%2012.05.48%20AM.png" width="600" height="400">
+
+<img src="https://github.com/JATHISWAR/Full-Stack-Shopping-App/blob/FrontEnd/Screenshot%202022-10-16%20at%2012.05.48%20AM.png" width="600" height="400">
